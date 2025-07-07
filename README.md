@@ -1,4 +1,4 @@
-# 🔥 Safiruddin | FullStack Developer
+# 🔥 Safiruddin | 
 
 <div align="center">
 
@@ -12,8 +12,8 @@
   
 | Dynamic Stats | Language Focus |
 |--------------|----------------|
-| [![GitHub Streak](https://streak-stats.demolab.com?user=safi-sfn&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safi-sfn&layout=compact&theme=radical&hide_border=true&hide=html,css,scss&langs_count=6)](https://github.com/safi-sfn) |
-| [![Detailed Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safi-sfn&theme=radical)](https://github.com/safi-sfn) | [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=safi-sfn&theme=redical&hide_border=true&area=true)](https://github.com/safi-sfn) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=safi-sfn&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safi-sfn&layout=compact&theme=radical)|
+|![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=safi-sfn&show_icons=true&theme=radical)| [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=safi-sfn&theme=redical&hide_border=true&area=true)](https://github.com/safi-sfn) |
 
 </div>
 
