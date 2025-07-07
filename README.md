@@ -1,10 +1,52 @@
-# Hi there, I'm Safiruddin 👋
+# 🔥 Safiruddin | FullStack Developer
 
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=safi-sfn&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/safi-sfn)
+
+</div>
+
+## 🚀 GitHub Analytics
+
+<div align="center">
+  
+| Dynamic Stats | Language Focus |
+|--------------|----------------|
+| [![GitHub Streak](https://streak-stats.demolab.com?user=safi-sfn&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safi-sfn&layout=compact&theme=radical&hide_border=true&hide=html,css,scss&langs_count=6)](https://github.com/safi-sfn) |
+| [![Detailed Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safi-sfn&theme=radical)](https://github.com/safi-sfn) | [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=safi-sfn&theme=redical&hide_border=true&area=true)](https://github.com/safi-sfn) |
+
+</div>
+
+## 🏆 Trophy Case
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=safi-sfn&theme=radical&no-frame=true&row=2&column=4)](https://github.com/safi-sfn)
+
+</div>
+
+## 🌟 Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR #42 in [safi-sfn/ecommerce-springboot](https://github.com/safi-sfn/ecommerce-springboot)
+2. 🚀 Pushed 3 commits to [safi-sfn/hospital-spring](https://github.com/safi-sfn/hospital-spring)
+3. 💪 Opened issue #15 in [safi-sfn/spring-microservices](https://github.com/safi-sfn/spring-microservices)
+4. 🔄 Forked [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+<!--END_SECTION:activity-->
+
+<div align="center">
+  
+![Contribution Snake](https://github.com/safi-sfn/safi-sfn/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_scheme=dark)
+
+</div>
+
+<!--
 ## 🚀 Backend Specialist
 **Spring Boot Expert** with full-stack capabilities in Java technologies  
 🔹 Building robust REST APIs & microservices  
 🔹 Implementing secure authentication systems  
-🔹 Optimizing database performance  
+🔹 Optimizing database performance 
+-->
 
 ## 🏢 Core Backend Stack
 ### Java Ecosystem:
@@ -28,12 +70,13 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 
-
+<!--
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=safi-sfn&show_icons=true&theme=radical)
 
 ## 🔥 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safi-sfn&layout=compact&theme=radical)
+-->
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
@@ -49,6 +92,7 @@
 - Developed cart/order processing system
 - Integrated Stripe payment gateway
 
+<!--
 ### 2. [Hospital Management System](https://github.com/safi-sfn/hospital-spring)
 ![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?logo=spring-security&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white)
@@ -62,18 +106,5 @@
 - Service discovery with Eureka
 - API Gateway with Spring Cloud Gateway
 - Distributed configuration with Spring Cloud Config
+-->
 
-## 🏢 Core Backend Stack
-```java
-@RestController
-@RequestMapping("/api/v1")
-public class ProductController {
-    
-    @Autowired
-    private ProductService productService;
-    
-    @GetMapping("/products")
-    public ResponseEntity<List<Product>> getAllProducts() {
-        return ResponseEntity.ok(productService.findAll());
-    }
-}
