@@ -1,11 +1,5 @@
 # 🔥 Safiruddin | 
 
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=safi-sfn&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/safi-sfn)
-
-</div>
-
 ## 🚀 GitHub Analytics
 
 <div align="center">
@@ -13,8 +7,7 @@
 | Dynamic Stats | Language Focus |
 |--------------|----------------|
 | [![GitHub Streak](https://streak-stats.demolab.com?user=safi-sfn&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safi-sfn&layout=compact&theme=radical)|
-|![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=safi-sfn&show_icons=true&theme=radical)| [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=safi-sfn&theme=redical&hide_border=true&area=true)](https://github.com/safi-sfn) |
-
+|![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=safi-sfn&show_icons=true&theme=radical)| 
 </div>
 
 ## 🏆 Trophy Case
@@ -34,11 +27,6 @@
 4. 🔄 Forked [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
 <!--END_SECTION:activity-->
 
-<div align="center">
-  
-![Contribution Snake](https://github.com/safi-sfn/safi-sfn/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_scheme=dark)
-
-</div>
 
 <!--
 ## 🚀 Backend Specialist
@@ -46,7 +34,7 @@
 🔹 Building robust REST APIs & microservices  
 🔹 Implementing secure authentication systems  
 🔹 Optimizing database performance 
--->
+
 
 ## 🏢 Core Backend Stack
 ### Java Ecosystem:
@@ -70,7 +58,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 
-<!--
+
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=safi-sfn&show_icons=true&theme=radical)
 
@@ -82,6 +70,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
+<!--
 ## 🌟 Featured Spring Boot Projects
 
 ### 1. [E-Commerce Backend](https://github.com/safi-sfn/ecommerce-springboot)
