@@ -30,7 +30,7 @@
   
 | |  |
 |--------------|----------------|
-| [![GitHub Streak](https://streak-stats.demolab.com?user=safi-sfn&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safi-sfn&theme=blue-green)|
+| [![GitHub Streak](https://streak-stats.demolab.com?user=safi-sfn&theme=blue-green&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safi-sfn&theme=blue-green)|
 ![Safiruddin github stats](https://github-readme-stats.vercel.app/api?username=safi-sfn&theme=blue-green)|
 
 
