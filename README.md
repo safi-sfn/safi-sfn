@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Safiruddin</h1>
-<h3 align="center">A passionate Java full stack developer from India</h3>
+<!--<h1 align="center">Hi 👋, I'm Safiruddin</h1>
+<h3 align="center">A passionate Java full stack developer from India</h3>-->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Safiruddin+%2C+%F0%9F%98%8A;A+passionate+Java+full+stack+developer+from+India" alt="Typing SVG" /></a>
+</div>
 <div align="center">
   <img alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm82b2F6cGxrb3FhbDQ2M29vdWc0d251OHZwMDV6dW5nbW1rcGRucCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif">
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=safi-sfn&label=Profile%20views&color=0e75b6&style=flat" alt="safi-sfn" /> </p>
 <p align="center"><img src="https://img.shields.io/github/last-commit/safi-sfn/durgaSoft_JavaSpring.svg" alt="safi-sfn" /> </p>
 
-## 🛠️ Tech Stack
+##  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&multiline=true&width=300&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Typing SVG" /></a>
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
