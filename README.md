@@ -7,7 +7,7 @@
   <img alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm82b2F6cGxrb3FhbDQ2M29vdWc0d251OHZwMDV6dW5nbW1rcGRucCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif">
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=safi-sfn&label=Profile%20views&color=0e75b6&style=flat" alt="safi-sfn" /> </p>
-<p align="center"><img src="https://img.shields.io/github/last-commit/safi-sfn/durgaSoft_JavaSpring.svg" alt="safi-sfn" /> </p>
+<!-- <p align="center"><img src="https://img.shields.io/github/last-commit/safi-sfn/durgaSoft_JavaSpring.svg" alt="safi-sfn" /> </p> -->
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&multiline=true&repeat=false&width=300&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Typing SVG" /></a>
 
