@@ -12,9 +12,6 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&multiline=true&repeat=false&width=300&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Typing SVG" /></a>
 
 
-
-# GitHub Skills Badges
-
 ## Core Programming
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
